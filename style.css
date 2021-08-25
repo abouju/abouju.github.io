@@ -1,0 +1,19 @@
+body {
+  background-color: #ccccff;
+}
+a:link
+{
+  color: #0000ff;
+}
+a:visited
+{
+  color: #800080;
+}
+table {
+  width: 100%;
+}
+td {
+    text-align: center;
+}
+img { 
+	border: 0; }
