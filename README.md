@@ -1,2 +1,2 @@
 # abouju.github.io
-Web page
+Web page foaf, html
