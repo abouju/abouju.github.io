@@ -6,8 +6,6 @@
 <foaf:PersonalProfileDocument rdf:about="">
   <foaf:maker rdf:resource="#me"/>
   <foaf:primaryTopic rdf:resource="#me"/>
-  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
-  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
 </foaf:PersonalProfileDocument>
 <foaf:Person rdf:ID="me">
 <foaf:name>Alain Bouju</foaf:name>
@@ -17,6 +15,8 @@
 <foaf:mbox_sha1sum>c928cf164dfe1a680d26512bf49c4ba8b8126d17</foaf:mbox_sha1sum>
 <foaf:homepage rdf:resource="http://pageperso.univ-lr.fr/alain.bouju/"/>
 <foaf:phone rdf:resource="tel:0546458601"/>
+<foaf:interest rdf:resource="http://dbpedia.org/resource/Linked_Data"/>
+<foaf:interest rdf:resource="http://dbpedia.org/resource/Rowing"/>
 <foaf:workplaceHomepage rdf:resource="http://pageperso.univ-lr.fr/alain.bouju/"/>
 <foaf:schoolHomepage rdf:resource="https://www.isae-supaero.fr/fr/"/></foaf:Person>
 </rdf:RDF>
